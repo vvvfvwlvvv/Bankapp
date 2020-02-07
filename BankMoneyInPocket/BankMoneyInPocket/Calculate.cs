@@ -13,24 +13,14 @@ namespace BankMoneyInPocket
             return sum = ((sum * 8 * srok)/(365*100));
         }
 
-        public double IncomeClassic(double sum, int srok, int payment)
+        public double IncomeClassic(double sum, int srok)
         {
-            for (int countMontn = 1; countMontn <= srok; countMontn++)
-            {
-                //sum += payment;
-                return sum = srok * Math.Pow((1 + ((5*30)/100*365)), srok/30);
-            }
-            return sum;
+            return sum = ((sum * 8 * srok) / (365 * 100));
         }
 
-        public double IncomeOptimal(double sum, int srok, int payment)
+        public double IncomeOptimal(double sum, int srok)
         {
-            for (int countMontn = 1; countMontn <= srok; countMontn++)
-            {
-                sum += payment;
-                sum += sum * 0.6;
-            }
-            return sum;
+            return sum = (sum * Math.Pow(1 + (5.00 * 30.00 / (100 * 365)), srok / 30)) - sum;
         }
     }
 }
