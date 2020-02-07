@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BankMoneyInPocket\BankMoneyInPocket\bin\Debug\BankMoneyInPocket.exe.config
+C:\Users\User\source\repos\BankMoneyInPocket\BankMoneyInPocket\bin\Debug\BankMoneyInPocket.exe
+C:\Users\User\source\repos\BankMoneyInPocket\BankMoneyInPocket\bin\Debug\BankMoneyInPocket.pdb
+C:\Users\User\source\repos\BankMoneyInPocket\BankMoneyInPocket\obj\Debug\BankMoneyInPocket.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BankMoneyInPocket\BankMoneyInPocket\obj\Debug\BankMoneyInPocket.MainFormBank.resources
+C:\Users\User\source\repos\BankMoneyInPocket\BankMoneyInPocket\obj\Debug\BankMoneyInPocket.Properties.Resources.resources
+C:\Users\User\source\repos\BankMoneyInPocket\BankMoneyInPocket\obj\Debug\BankMoneyInPocket.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BankMoneyInPocket\BankMoneyInPocket\obj\Debug\BankMoneyInPocket.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BankMoneyInPocket\BankMoneyInPocket\obj\Debug\BankMoneyInPocket.exe
+C:\Users\User\source\repos\BankMoneyInPocket\BankMoneyInPocket\obj\Debug\BankMoneyInPocket.pdb
+C:\Users\User\source\repos\BankMoneyInPocket\BankMoneyInPocket\obj\Debug\BankMoneyInPocket.CalculateForm.resources
